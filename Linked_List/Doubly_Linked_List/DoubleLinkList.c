@@ -1,4 +1,4 @@
-#include "C:\\Users\\kritt\\Documents\\Personal_Project\\Data_Structure_and_Algorithm\\Linked_List\\Doubly_Linked_List\\DoubleLink.h"
+#include "DoubleLink.h"
 #include <stdio.h>
 
 struct DoubleLink *newNode;
